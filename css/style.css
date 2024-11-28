@@ -516,7 +516,7 @@ a:hover{
 	background: #000000;
 }
 .footer p{
-	font-size: 14px;
+	font-size: 16px;
  	line-height: 1.7em;
  	text-transform: uppercase;
  	font-weight: 500;
@@ -528,6 +528,7 @@ a:hover{
 	background: transparent;
 }
 .footer .navbar .navbar-brand{
+	font-size: 26px;
 	color: #333333;
 	margin: 0px 20px 0px 20px;
 }
